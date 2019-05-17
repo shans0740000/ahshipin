@@ -1,0 +1,17 @@
+{
+  "name": "cordova-plugin-ahshipin",
+  "version": "1.0.1",
+  "cordova": {
+    "id": "cordova-plugin-ahshipin",
+    "platforms": [
+      "ios"
+    ]
+  },
+  "keywords": [
+    "ecosystem:cordova",
+    "cordova-ios"
+  ],
+  "author": "",
+  "license": "ISC",
+  "description": ""
+}
